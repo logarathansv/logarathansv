@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Logarathan S V</h1>
 <h3 align="center">I'm a Fullstack Dev from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=logarathansv" alt="logarathansv" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter, NodeJs**
 
 - 📫 How to reach me **techdare7@gmail.com**
