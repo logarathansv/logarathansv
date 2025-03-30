@@ -18,8 +18,8 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/rathan_05?theme=dark&font=Assistant&ext=heatmap)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=logarathansv&show_icons=true&locale=en&layout=compact" alt="logarathansv" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=logarathansv&show_icons=true&locale=en&layout=compact" alt="logarathansv" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=logarathansv&show_icons=true&locale=en" alt="logarathansv" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=logarathansv&show_icons=true&locale=en" alt="logarathansv" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=logarathansv&" alt="logarathansv" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=logarathansv&" alt="logarathansv" /></p>
