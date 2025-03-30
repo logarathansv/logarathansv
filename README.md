@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Logarathan S V</h1>
+<h1 align="center">Hi 👋, I'm Logarathan</h1>
 <h3 align="center">I'm a Fullstack Dev from India</h3>
 
 - 🌱 I’m currently learning **Flutter, NodeJs**
